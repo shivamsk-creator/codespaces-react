@@ -9,7 +9,8 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload more.
+          Edit <code>src/App.js</code> and save to reload more. Hey Welcome to
+          github code spaces.
         </p>
         <p>
           <a
