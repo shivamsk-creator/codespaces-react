@@ -1,4 +1,4 @@
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
           GitHub Codespaces <span className="heart">♥️</span> React
         </p>
         <p className="small">
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload more.
         </p>
         <p>
           <a
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn React with shivam Singh Kushwaha
           </a>
         </p>
       </header>
